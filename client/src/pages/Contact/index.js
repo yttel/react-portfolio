@@ -8,7 +8,7 @@ const Contact = () => {
 
     <div class="box-part text-center pb-3 pt-3">
                         
-      <i class="fa fa-envelope fa-3x" aria-hidden="true"></i>
+      <i class="fa fa-envelope fa-4x" aria-hidden="true"></i>
                         
 			<div class="title">
 				<h4>Contact</h4>
@@ -32,10 +32,10 @@ const Contact = () => {
 
     <div class="box-part text-center pb-3">
                         
-      <i class="fab fa-github fa-3x" aria-hidden="true"></i>
+      <i class="fa fa-github fa-5x" aria-hidden="true"></i>
                         
 			<div class="title">
-				<h4>github</h4>
+				<h4>GitHub</h4>
 			</div>
                   
       <a href="https://github.com/yttel">Link</a>
@@ -44,10 +44,10 @@ const Contact = () => {
 
     <div class="box-part text-center">
                         
-      <i class="fab fa-linkedin fa-3x" aria-hidden="true"></i>
+      <i class="fa fa-linkedin fa-4x" aria-hidden="true"></i>
                         
 			<div class="title">
-				<h4>linkedin</h4>
+				<h4>LinkedIn</h4>
 			</div>
                   
       <a href="https://www.linkedin.com/in/lettybedard/">Link</a>
