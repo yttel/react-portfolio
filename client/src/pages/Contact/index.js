@@ -1,59 +1,16 @@
 import React from "react";
-
+import ContactCard from "../../components/ContactCard";
 
 const Contact = () => {
   return (
     <>
-    {/* <h1>CONTACT</h1> */}
+      <ContactCard icon="fa-envelope" size="4" descText="Contact" link='"mailto:lettybedard@gmail.com" target="_blank" rel="noopener noreferrer"' linkText="e-mail" />
 
-    <div class="box-part text-center pb-3 pt-3">
-                        
-      <i class="fa fa-envelope fa-4x" aria-hidden="true"></i>
-                        
-			<div class="title">
-				<h4>Contact</h4>
-			</div>
-                  
-      <a href="mailto:lettybedard@gmail.com" target="_blank" rel="noopener noreferrer">e-mail</a>
-                  
-    </div>
+      {/* <ContactCard icon="fa-file" size="4" descText="Resume" link="" linkText="download" /> */}
 
-    {/* <div class="box-part text-center pb-3">
-                        
-      <i class="fa fa-file-download" aria-hidden="true"></i>
-                        
-			<div class="title">
-				<h4>Resume</h4>
-			</div>
-                  
-      <a href="#">Download</a>
-                  
-    </div> */}
+      <ContactCard icon="fa-github" size="5" descText="GitHub" link="https://github.com/yttel" linkText="Link" />
 
-    <div class="box-part text-center pb-3">
-                        
-      <i class="fa fa-github fa-5x" aria-hidden="true"></i>
-                        
-			<div class="title">
-				<h4>GitHub</h4>
-			</div>
-                  
-      <a href="https://github.com/yttel">Link</a>
-                  
-    </div>
-
-    <div class="box-part text-center">
-                        
-      <i class="fa fa-linkedin fa-4x" aria-hidden="true"></i>
-                        
-			<div class="title">
-				<h4>LinkedIn</h4>
-			</div>
-                  
-      <a href="https://www.linkedin.com/in/lettybedard/">Link</a>
-                  
-    </div>
-
+      <ContactCard icon="fa-linkedin" size="4" descText="LinkedIn" link="https://www.linkedin.com/in/lettybedard/" linkText="Link" />
     </>
   );
 };
