@@ -1,13 +1,37 @@
-[
-  {
-    "title": "aProject",
-    "image": "how do I do this?",
-    "description": "blah blah blah bacon blah blah blah",
-    "gitlink": "github.com/yttel/aProject"
-  },{ 
-    "title": "aProject",
-    "image": "how do I do this?",
-    "description": "blah blah blah bacon blah blah blah",
-    "gitlink": "github.com/yttel/aProject"    
-  }
-]
+[{
+  "name": "Password Generator",
+  "description": "The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex!",
+  "screenshot": "",
+  "githubUrl": "https://github.com/yttel/password-generator",
+  "deployedUrl": "https://yttel.github.io/password-generator/" 
+},{
+  "name": "Note Taker",
+  "description": "The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex!",
+  "screenshot": "",
+  "githubUrl": "https://github.com/yttel/note-taker",
+  "deployedUrl": "https://fathomless-cliffs-82699.herokuapp.com/" 
+},{
+  "name": "Burger Logger",
+  "description": "The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex!",
+  "screenshot": "",
+  "githubUrl": "https://github.com/yttel/burger-logger",
+  "deployedUrl": "https://mysterious-scrubland-65673.herokuapp.com/" 
+},{
+  "name": "Speedy Shopper",
+  "description": "The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex!",
+  "screenshot": "",
+  "githubUrl": "https://github.com/yttel/speedy-shopper",
+  "deployedUrl": "https://damp-lake-05622.herokuapp.com/" 
+},{
+  "name": "User Directory",
+  "description": "The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex!",
+  "screenshot": "",
+  "githubUrl": "https://github.com/yttel/user-directory",
+  "deployedUrl": "https://yttel.github.io/user-directory" 
+},{
+  "name": "Grid Visualization",
+  "description": "The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex!",
+  "screenshot": "",
+  "githubUrl": "https://github.com/ahoerman/gridvisualization",
+  "deployedUrl": "https://still-forest-22141.herokuapp.com/" 
+}]
