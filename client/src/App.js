@@ -5,11 +5,14 @@ import Contact from "./pages/Contact";
 import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 import NoMatch from "./pages/NoMatch";
+import Header from "./components/Header";
 import NavBar from "./components/NavBar";
+import Footer from "./components/Footer";
 
 function App() {
   return (
     <>
+      <Header />
       <NavBar />
       <Router>
         <Switch>
@@ -21,6 +24,7 @@ function App() {
           <Route component={NoMatch} />
         </Switch>
       </Router>
+      <Footer />
     </>
   );
 }
