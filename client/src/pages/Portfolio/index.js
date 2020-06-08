@@ -15,7 +15,7 @@ const Portfolio = () => {
   return (
     <Container fluid>
       <h1 class="text-center">Portfolio</h1>
-      <Row sm={1} md={2} lg={3}>
+      <Row xs={1} sm={2} md={2} lg={3}>
           { projectList }
       </Row>
     </Container>

@@ -9,7 +9,7 @@ const ProjectCard = ({ name, description, screenshot, githubUrl, deployedUrl }) 
         <Card.Header>
           <Card.Title>{name}</Card.Title>
         </Card.Header>
-        <Card.Img variant="top" src={screenshot} />
+        <Card.Img className="border" variant="top" src={screenshot} fluid/>
         <Card.Body>
           <Card.Text>{description}</Card.Text>
           <a class="btn mr-2 border"  href={githubUrl} target="_blank" rel="noopener noreferrer">Source Code</a>

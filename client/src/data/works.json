@@ -1,37 +1,37 @@
 [{
   "name": "Password Generator",
-  "description": "The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex!",
-  "screenshot": "",
+  "description": "Little app that generates a random password based on user-selected criteria. User input is validated and there is a button to copy the generated password. Runs in the browser with dynamically updated HTML and CSS, powered by JavaScript.",
+  "screenshot": "./images/pwGen.png",
   "githubUrl": "https://github.com/yttel/password-generator",
   "deployedUrl": "https://yttel.github.io/password-generator/" 
 },{
   "name": "Note Taker",
-  "description": "The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex!",
-  "screenshot": "",
+  "description": "Application that can be used to write, save, and delete notes. This application uses an express backend and saves and retrieves note data from a JSON file.",
+  "screenshot": "./images/noteTaker.PNG",
   "githubUrl": "https://github.com/yttel/note-taker",
   "deployedUrl": "https://fathomless-cliffs-82699.herokuapp.com/" 
 },{
   "name": "Burger Logger",
-  "description": "The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex!",
-  "screenshot": "",
+  "description": "A simple burger logger made with MySQL, Node, Express, Handlebars and a homemade ORM. Follows the MVC design pattern, uses Node and MySQL to query and route data, and Handlebars to generate HTML.",
+  "screenshot": "./images/burger.PNG",
   "githubUrl": "https://github.com/yttel/burger-logger",
   "deployedUrl": "https://mysterious-scrubland-65673.herokuapp.com/" 
 },{
   "name": "Speedy Shopper",
-  "description": "The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex!",
-  "screenshot": "",
+  "description": "Shopping list aggregator - allows the user to dynamically store, check off, and save items on a shopping list for the next time. Sorts items into lists by category saving time at the store.",
+  "screenshot": "./images/speed shop.png",
   "githubUrl": "https://github.com/yttel/speedy-shopper",
   "deployedUrl": "https://damp-lake-05622.herokuapp.com/" 
 },{
   "name": "User Directory",
-  "description": "The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex!",
-  "screenshot": "",
+  "description": "An employee directory with created with React. This application's UI is broken into components, manages component state, and responds to user events. Users can search in any field and sort by clicking on the column headers.",
+  "screenshot": "./images/userDirectory.PNG",
   "githubUrl": "https://github.com/yttel/user-directory",
   "deployedUrl": "https://yttel.github.io/user-directory" 
 },{
   "name": "Grid Visualization",
-  "description": "The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex!",
-  "screenshot": "",
+  "description": "Electric Grid Visualization Group Project for The Appleseed Initiative. Uses government data on electricity generation and carbon emissions to chart and compare usage between states. Also lists power plants by state and type with a link to location.",
+  "screenshot": "./images/gridViz.PNG",
   "githubUrl": "https://github.com/ahoerman/gridvisualization",
   "deployedUrl": "https://still-forest-22141.herokuapp.com/" 
 }]
